@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AudDMusic/audd-cli/releases/download/v0.1.1/audd_0.1.1_windows_amd64.zip",
+            "bin": [
+                "audd.exe"
+            ],
+            "hash": "422e4d8feeae7d234d93016f1213acbab122090f80d1b4e7dbce1fa5aedc6682"
+        },
+        "arm64": {
+            "url": "https://github.com/AudDMusic/audd-cli/releases/download/v0.1.1/audd_0.1.1_windows_arm64.zip",
+            "bin": [
+                "audd.exe"
+            ],
+            "hash": "1818b20a9915838b604ef9cd95b169b230abc58acb6783a62692a7fc14ae90b9"
+        }
+    },
+    "homepage": "https://audd.io",
+    "license": "MIT",
+    "description": "Recognize music in files, URLs, and streams with AudD"
+}
